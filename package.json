@@ -1,0 +1,11 @@
+{
+  "name": "kinopoisk-to-letterboxd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "read-excel-file": "^4.0.5"
+  }
+}
